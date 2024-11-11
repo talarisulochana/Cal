@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    flex-direction: column;
+    height: 100vh;
+}
+.A{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    margin: 5px;
+    height: 30px;
+    width: 30px;
+}
+#black{
+    background-color:rgb(29, 12, 12);
+    color: white;
+}
+#green{
+background-color: lightgreen;
+}

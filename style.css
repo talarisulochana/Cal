@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+    gap: 20px;
+    background-color: lightskyblue;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    width: fit-content;
+    height: 60px;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: wheat;
+}
+button{
+    padding: 10px;
+    font-size: 20px;
+    background-color: lawngreen;
+}
+
